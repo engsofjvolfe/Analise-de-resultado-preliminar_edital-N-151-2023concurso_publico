@@ -1,0 +1,14 @@
+Visualização de Notas:
+Crie gráficos de barras ou boxplots para visualizar a distribuição das notas em cada matéria. Isso pode ajudar a identificar variações e outliers.
+
+Top 10 Alunos:
+Destaque os top 10 alunos que obtiveram as notas mais altas. Você pode criar uma tabela ou gráfico para mostrar esses alunos e suas respectivas notas.
+
+Análise de Correlação:
+Calcule a correlação entre as notas em diferentes matérias. Isso pode indicar se há uma tendência de desempenho semelhante ou oposta em disciplinas específicas.
+
+Comparação de Médias:
+Compare as médias de diferentes matérias de maneira simples. Por exemplo, crie um gráfico de barras mostrando as médias em cada matéria.
+
+Análise de Desempenho Geral:
+Avalie o desempenho geral dos alunos, considerando a média total das notas. Isso pode fornecer uma visão geral do grupo.
