@@ -1,6 +1,9 @@
 # Concurseiro - Análise de Resultados Preliminares de Prova
 
 Bem-vindo a esse projeto! Né??
+
+Não tenho dúvidas de que esse projeto possa apresentar erros e inconsistências, por exemplo, no que diz respeito a limpeza e tratamento dos dados, mas esse é um trabalho pra que eu aplique o que tenho aprendido e ao mesmo tempo me dá espaços para melhoria constante.
+
 Aqui realizamos uma análise simples dos resultados preliminares de uma prova para o cargo de técnico administrativo. A prova foi realizada em 29/10/2023, conforme o [Edital Nº 151/2023-PRH](http://www.prh.uem.br/res/concurso-publico/tecnico-administrativo-edital-no-151-2023-prh-2013-concurso-publico-agente-universitario-de-nivel-medio/edital-151-2023-prh.pdf/view).
 
 ## Introdução
